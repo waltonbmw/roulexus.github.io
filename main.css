@@ -52,3 +52,10 @@ h2 {
   display: block;
 
 }
+
+.banner > .banner-image > h1 {
+  font-size: 4em;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  text-align: center;
+
+}
