@@ -38,6 +38,7 @@ h2 {
   color: #ffffff;
 }
 
-#cointainer {
+#container {
   background-image: url(http://solidearth.com/wp-content/uploads/2015/02/iStock_000054265224Large.jpg);
+  background-size: cover;
 }
