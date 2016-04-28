@@ -45,6 +45,8 @@ h2 {
 .banner {
   width: 100%;
   display: block;
+  position: absolute;
+  top: 50%;
 }
 
 .banner > .banner-image {
