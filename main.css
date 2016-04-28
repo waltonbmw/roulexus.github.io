@@ -13,6 +13,8 @@ h2 {
   font-size: 2em;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   text-align: center;
+<<<<<<< HEAD
+=======
 
 
 }
@@ -23,23 +25,17 @@ h2 {
   list-style: none;
   text-align: center;
   padding: 20px 0 20px 0;
-
+  
 }
 
 .nav > li {
   display: inline-block;
   padding-right: 50px;
-
+  
 }
 >>>>>>> origin/master
 
 .nav > li > a {
   text-decoration: none;
   color: #ffffff;
-}
-
-#container {
-  background-image: url(http://solidearth.com/wp-content/uploads/2015/02/iStock_000054265224Large.jpg);
-
-
 }
