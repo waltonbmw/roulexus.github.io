@@ -43,8 +43,9 @@ h2 {
 }
 
 .banner {
-  width: 100%;
-  display: block;
+  background-image: bham.jpg;
+  background-size: cover;
+  
 }
 
 .banner > .banner-image {
